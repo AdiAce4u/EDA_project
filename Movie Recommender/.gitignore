@@ -1,0 +1,21 @@
+# Ignore CSV datasets
+*.csv
+
+# Ignore similarity matrix (large file)
+similarity.pkl
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+.env/
+.venv/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
